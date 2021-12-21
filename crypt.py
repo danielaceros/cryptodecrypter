@@ -15,7 +15,8 @@ def maincrypt():
         return open("key.key", "rb").read()
 
     def crypt():
-        path = input("> ")
+        path = input("""Enter your FILE PATH:
+ > """)
         fe = Fernet(chrg())
         with open(path, "rb") as fileread:
             rd = fileread.read()
