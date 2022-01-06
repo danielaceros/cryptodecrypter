@@ -16,9 +16,9 @@ A simple script that allows you to ENCRYPT and DECRYPT files using a KEY.
 ## Getting Started
 Download the repo, and install the necessary modules if you don't have it
 ```bash
-pip install cryptography
-pip install time
-pip install tqdm
+pip/pip3 install cryptography
+pip/pip3 install time
+pip/pip3 install tqdm
 ```
 ## Usage
 Use the 'crypt.py' to encrypt any file, you only have to put the file path once the script request it, it will be generated a file 'key.key', don't delete it.
