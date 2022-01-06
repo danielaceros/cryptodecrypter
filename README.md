@@ -13,7 +13,7 @@
 
 # cryptodecrypter
 A simple script that allows you to ENCRYPT and DECRYPT files using a KEY.
-# Getting Started
+## Getting Started
 Download the repo, and install the necessary modules if you don't have it
 * pip install cryptography
 * pip install time
