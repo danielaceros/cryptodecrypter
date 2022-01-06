@@ -28,3 +28,5 @@ Use the 'decrypt.py' on the same path that the file and the 'key.key', and intro
 * python3 crypt.py
 * python3 decrypt.py
 ```
+## License
+[GPL](https://choosealicense.com/licenses/gpl-3.0/)
